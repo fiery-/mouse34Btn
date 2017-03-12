@@ -1,0 +1,257 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 422}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 70}, {1306, 803}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* mouse34BtnAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 422}}";
+			sepNavSelRange = "{170, 0}";
+			sepNavVisRange = "{0, 249}";
+			sepNavWindowFrame = "{{15, 70}, {1306, 803}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* mouse34BtnAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 1248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1174}";
+			sepNavWindowFrame = "{{157, 49}, {1306, 803}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = CE8CEBA81E721C240067BFA3 /* mouse34Btn */;
+		activeTarget = 8D1107260486CEB800E47090 /* mouse34Btn */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* mouse34Btn */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = CE8CEBB51E721C430067BFA3 /* Code sense */;
+		executables = (
+			CE8CEBA81E721C240067BFA3 /* mouse34Btn */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					841,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 510797590;
+			PBXWorkspaceStateSaveDate = 510797590;
+		};
+		perUserProjectItems = {
+			CE2AF05D1E72275B005603FA /* PlistBookmark */ = CE2AF05D1E72275B005603FA /* PlistBookmark */;
+			CE2AF05E1E72275B005603FA /* PlistBookmark */ = CE2AF05E1E72275B005603FA /* PlistBookmark */;
+			CE2AF0721E7227A9005603FA /* PlistBookmark */ = CE2AF0721E7227A9005603FA /* PlistBookmark */;
+			CE86B1E61E7223F900058EA0 = CE86B1E61E7223F900058EA0 /* PBXTextBookmark */;
+			CE86B1E81E7223F900058EA0 = CE86B1E81E7223F900058EA0 /* PBXTextBookmark */;
+			CE86B1E91E7223F900058EA0 = CE86B1E91E7223F900058EA0 /* PBXTextBookmark */;
+			CE8986171E7225860082BC81 = CE8986171E7225860082BC81 /* PBXTextBookmark */;
+			CE8986181E7225860082BC81 = CE8986181E7225860082BC81 /* PBXTextBookmark */;
+			CE8986291E7225D00082BC81 = CE8986291E7225D00082BC81 /* PBXBookmark */;
+			CE89862A1E7225D00082BC81 = CE89862A1E7225D00082BC81 /* PlistBookmark */;
+			CE89862F1E7226B30082BC81 = CE89862F1E7226B30082BC81 /* PlistBookmark */;
+		};
+		sourceControlManager = CE8CEBB41E721C430067BFA3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* mouse34Btn */ = {
+		activeExec = 0;
+		executables = (
+			CE8CEBA81E721C240067BFA3 /* mouse34Btn */,
+		);
+	};
+	CE2AF05D1E72275B005603FA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* mouse34Btn-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/user/Documents/mouse34Btn/mouse34Btn-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE2AF05E1E72275B005603FA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* mouse34Btn-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/user/Documents/mouse34Btn/mouse34Btn-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE2AF0721E7227A9005603FA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* mouse34Btn-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/user/Documents/mouse34Btn/mouse34Btn-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE86B1B11E7220B300058EA0 /* LICENSE */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 637}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1609}";
+			sepNavWindowFrame = "{{15, 70}, {1306, 803}}";
+		};
+	};
+	CE86B1E61E7223F900058EA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE86B1E71E7223F900058EA0 /* AppDelegate.m */;
+		name = "AppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 0;
+	};
+	CE86B1E71E7223F900058EA0 /* AppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppDelegate.m;
+		path = /Users/user/Desktop/mouse34Btn/mouse34Btn/AppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	CE86B1E81E7223F900058EA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE86B1B11E7220B300058EA0 /* LICENSE */;
+		name = "LICENSE: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1609;
+		vrLoc = 0;
+	};
+	CE86B1E91E7223F900058EA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* mouse34BtnAppDelegate.m */;
+		name = "mouse34BtnAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1174;
+		vrLoc = 0;
+	};
+	CE8986171E7225860082BC81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* mouse34BtnAppDelegate.h */;
+		name = "mouse34BtnAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	CE8986181E7225860082BC81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	CE8986291E7225D00082BC81 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE8986231E7225A20082BC81 /* main.icns */;
+	};
+	CE89862A1E7225D00082BC81 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* mouse34Btn-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/user/Documents/mouse34Btn/mouse34Btn-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CE89862F1E7226B30082BC81 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* mouse34Btn-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/user/Documents/mouse34Btn/mouse34Btn-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CE8CEBA81E721C240067BFA3 /* mouse34Btn */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = mouse34Btn;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CE8CEBB41E721C430067BFA3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CE8CEBB51E721C430067BFA3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

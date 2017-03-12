@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'mouse34Btn' target in the 'mouse34Btn' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
